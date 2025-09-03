@@ -49,4 +49,4 @@ The dataset contains order-level sales records with the following key fields:
 ## 📥 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/sales-dashboard.git
+   git clone https:/github.com/buzlueda/US_Regional_Sales_Analysis_EDA_Dashboard.git
